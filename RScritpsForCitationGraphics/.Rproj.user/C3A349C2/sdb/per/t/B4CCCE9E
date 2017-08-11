@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1502411453388.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B4CCCE9E",
+    "lastKnownWriteTime" : 4320773208,
+    "last_content_update" : 1502411453388,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "26C576F2",
+        "caption" : "dictionaries",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dictionaries&cache_key=26C576F2",
+        "displayedObservations" : "53",
+        "environment" : "",
+        "object" : "dictionaries",
+        "preview" : "0",
+        "totalObservations" : "53",
+        "variables" : "2"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
